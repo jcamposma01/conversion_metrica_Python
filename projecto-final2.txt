@@ -1,0 +1,33 @@
+-----------------------------------------------------------------------------------
+Problematica
+La compania estadounidense American Megadesing esta realizando
+un nuevo diseno de muebles, basados en palmnos del famoso disenador 
+industrial italiano Martin Vaccoto, pero muchas piezas no han encajado
+correctamente debido a que los planos estan en cms y las maquinarias
+americanas en pulagdas 
+----------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------
+algoritmo
+
+1.Solcitar al susario las medidas de la pieza del mueble an cms
+2.Convertir las medidas de centimetros a pulagdas
+3.Mostrar las medidas convertidas a  pulgadas al usuario
+-------------------------------------------------------------------
+
+
+--------------------------------------------------------------------
+Pseudocodigo
+
+Inicio
+ # Paso 1: solcitar al usuario las medidas de la pieza del mueble an cms
+ Mostrar Mensaje: "Por favor Ingrese las medidas de la piexza del mueble"
+
+ # Paso 2: Convertir las medidas de centimetros a pulagdas
+ Convertir medida_pulgadas = medida_cms / 2.54
+
+ # Paso 2: Mostrar las medidas convertidas a  pulgadas al usuario
+ Mostrar Mensaje: "La Medida en pulgadas es: ", medida_pulgadas
+
+ Fin
