@@ -11,7 +11,7 @@ americanas en pulagdas
 ----------------------------------------------------------------------------
 algoritmo
 
-1.Solcitar al susario las medidas de la pieza del mueble an cms
+1.Solcitar al usuario las medidas de la pieza del mueble an cms
 2.Convertir las medidas de centimetros a pulagdas
 3.Mostrar las medidas convertidas a  pulgadas al usuario
 -------------------------------------------------------------------
@@ -31,3 +31,8 @@ Inicio
  Mostrar Mensaje: "La Medida en pulgadas es: ", medida_pulgadas
 
  Fin
+
+
+ ---------------------------------------------------------------
+ Diagrama de flujo
+ https://miro.com/welcomeonboard/ZG5kcy83dll4RTJlN3IzVVF0WndQL3R3SHNzMlBiZ2ExZjB0b1BKT0poSDBwTzZqOUZDbzNGUFZnbzBEVjFyOFFvcHpJRFhiTUc4eHVwcEJiS1VhL2N2KzY4cG5HdWp5U3B1MXlENUpuMUZWaVkrOFo2WWtRdVIrY0s1eXR0K2chZQ==?share_link_id=70425717873
